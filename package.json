@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mauricionobrega/pwa#readme",
   "dependencies": {
+    "gulp-webserver": "^0.9.1",
     "materialize-css": "^0.98.2"
   }
 }
