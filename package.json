@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mauricionobrega/pwa/issues"
   },
-  "homepage": "https://github.com/mauricionobrega/pwa#readme"
+  "homepage": "https://github.com/mauricionobrega/pwa#readme",
+  "dependencies": {
+    "materialize-css": "^0.98.2"
+  }
 }
